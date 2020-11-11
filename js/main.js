@@ -1,5 +1,6 @@
-/* 1. */let numberOfFilms = +prompt("Сколько фильмов вы посмотрели?");
-/* 2. */
+                /* 1 - Задание на Udemy курсе. */
+let numberOfFilms = +prompt("Сколько фильмов вы посмотрели?");
+                /* 2 - Задание на Udemy курсе.. */
 let personalMovieDB = {
     count: numberOfFilms,
     movies: {},
@@ -7,7 +8,7 @@ let personalMovieDB = {
     genres: [],
     privat: false
 };
-/*3*/
+                /* 3 - Задание на Udemy курсе.*/
 let watchedFilm = prompt('Один из просмотренных фильмов'),
     gradeFilm = +prompt('Как вы оцениваете'),
     watchedFilm2 = prompt('Один из просмотренных фильмов'),
