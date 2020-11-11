@@ -7,6 +7,7 @@ let personalMovieDB = {
     genres: [],
     privat: false
 };
+/*3*/
 let watchedFilm = prompt('Один из просмотренных фильмов'),
     gradeFilm = +prompt('Как вы оцениваете'),
     watchedFilm2 = prompt('Один из просмотренных фильмов'),
